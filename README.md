@@ -30,6 +30,19 @@ My areas of expertise are PHP, Laravel, Javascript, Typescript, Vue, React, Pyth
 * [PostgreSQL](https://www.postgresql.org/), SQL Database
 * [MongoDB](https://www.mongodb.com/es), NoSQL Database
 
+## Tools
+
+* <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" alt="VSCode Icon" height="20"/> [Code Editor](https://code.visualstudio.com/)
+* <img src="https://img.shields.io/badge/PhpStorm-000000?logo=PhpStorm&logoColor=white" alt="PHPStorm Icon" height="20"/></td> [PHP IDE](https://www.jetbrains.com/phpstorm/)
+* <img src="https://img.shields.io/badge/Datagrip-green" alt="DataGrip Icon" height="20"/></td> [Database Tool](https://www.jetbrains.com/datagrip/)
+* <img src="https://img.shields.io/badge/Fork-lightblue" alt="Fork Icon" height="20"/></td> [Git Tool](https://git-fork.com/)
+* <img src="https://img.shields.io/badge/Warp-black" alt="Warp Icon" height="20"/></td> [Terminal](https://www.warp.dev/)
+* <img src="https://img.shields.io/badge/JIRA-blue" alt="JIRA Icon" height="20"/></td> [Project Management App](https://www.atlassian.com/software/jira)
+* <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=ClickUp&logoColor=white" alt="ClickUp Icon" height="20"/> [Project Management App](https://clickup.com/)
+* <img src="https://img.shields.io/badge/OrbStack-lightblue" alt="OrbStack Icon" height="20"/></td> [Docker App](https://orbstack.dev/)
+* <img src="https://img.shields.io/badge/Postman-orange" alt="Postman Icon" height="20"/></td> [API Platform](https://www.postman.com/)
+
+
 ## Links
 * [haroldut.com](https://www.haroldut.com/)
 * [Upwork](https://www.upwork.com/freelancers/~01b4d79eb361bdbba7)
